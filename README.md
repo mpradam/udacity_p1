@@ -38,7 +38,7 @@ Calendar, including listing id and the price and availability for that day
 
 
 Acknowledgement
-This dataset is part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/get-the-data.html)
+This dataset is part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/get-the-data.html).
 
 
 ## File Descriptions <a name="files"></a>
