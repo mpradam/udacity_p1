@@ -6,23 +6,39 @@
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
-6. [Any Change Made](#addendum)
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+There are no special requirements to run this project. The Anaconda distribution of Python should be more than enough, running with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+For this exercise I was interested in using the AirBnB information provided [here](https://www.kaggle.com/airbnb/boston?select=reviews.csv) for the city of Boston.
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
+The AirBnB team suggests the following questions of interest for analysis:
 
-The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
+1. Can you describe the vibe of each Boston neighborhood using listing descriptions?
+2. What are the busiest times of the year to visit Boston? 
+3. By how much do prices spike?
+4. Is there a general upward trend of both new Airbnb listings and total Airbnb visitors to Boston?
+
+I would also like to find out if...
+
+6. There is a strong correlation between the size of the listing and its price.
+7. Location is the most important variable for demand and pricing.
+8. Past reviews impact future listings of the place.
+
+
+Content
+The following Airbnb activity is included in this Boston dataset:
+
+Listings, including full descriptions and average review score
+Reviews, including unique id for each reviewer and detailed comments
+Calendar, including listing id and the price and availability for that day
+
+
+Acknowledgement
+This dataset is part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/get-the-data.html)
 
 
 ## File Descriptions <a name="files"></a>
@@ -38,8 +54,3 @@ The main findings of the code can be found at the post available [here](https://
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
-
-
-## Add Something to the project<a name="addendum"></a>
-
-This is an addendum by Mauricio Prada. This is me putting somethin aditional on the README file so I can check if everything is working alright with git and github.
