@@ -22,11 +22,11 @@ The AirBnB team suggests the following questions of interest for analysis:
 3. By how much do prices spike?
 4. Is there a general upward trend of both new Airbnb listings and total Airbnb visitors to Boston?
 
-I would also like to find out if...
+But what I realy would like to find out is if...
 
-6. There is a strong correlation between the size of the listing and its price.
-7. Location is the most important variable for demand and pricing.
-8. Past reviews impact future listings of the place.
+1. There is a strong correlation between the size of the listing and its price.
+2. Location is the most important variable for demand and pricing.
+3. Past reviews impact future listings of the place.
 
 
 Content
